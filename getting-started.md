@@ -24,7 +24,18 @@ run it with F6. Contact AcidePoulain#1752 on Discord if you get in any trouble.
 ## On the first day of dcjam2023 
 
 ### Cloning the repo
-Clone this repository on your work computer
+Clone this repository on your work computer (use your terminal of choice on Linux or git bash
+on Windows).
 
 ### Configuring the tools
+Run the following commands in the directory folder
+```
+git config user.name "<Replace with your github username>"
+git config user.email "<Replace with your github email>"
+git config rerere.enabled true
+```
 
+Run this command anywhere:
+```
+git config --global pull.rebase true
+```
