@@ -3,9 +3,9 @@
 ## Prior to the game jam start
 ### Install Godot (latest, with C# support)
 #### On Linux
-Use your package manager if you can. If you can't get version 4.0.1 with C# support,
-you can go to [the official download page](https://godotengine.org/download/) and
-pick a standalone version.
+Use your package manager if you can. If you can't get version 4.0.1 with C# support
+from your official repositories, you can go to [the official download page](https://godotengine.org/download/)
+and pick a standalone version.
 
 There is also an [rpm](https://src.fedoraproject.org/rpms/godot) available for fedora, 
 but I do not know if C# support is included.
